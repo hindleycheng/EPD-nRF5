@@ -10,7 +10,7 @@ Supported MCUs: `nrf51822` / `nrf51802` / `nrf52811` / `nrf52810`. For e-paper d
 
 This project includes a web-based interface implemented using Web Bluetooth API. You can use it on your phone or computer by visiting the URL below, or by directly double-clicking `html/index.html` locally.
 
-- URL: https://tsl0922.github.io/EPD-nRF5
+- URL: https://hindleycheng.github.io/EPD-nRF5/
 - Demo Video: https://www.bilibili.com/video/BV1KWAVe1EKs
 - Discussion Group: [1033086563](https://qm.qq.com/q/SckzhfDxuu) (Click the link to join the chat group)
 
